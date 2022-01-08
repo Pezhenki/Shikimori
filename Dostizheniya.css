@@ -4,10 +4,10 @@
   visibility: hidden;
 }
 .p-profiles .b-achievement[data-hint^="300 просмотренных аниме"] .inner:after { 
-  /*box-shadow: 0 0 2px 1px #54e454;*/ /*рамка*/
+  box-shadow: 0 0 2px 1px #54e454; /*рамка*/
   background-image: url("https://moe.shikimori.one/system/images/original/122487.gif?1641565934");
 }
 .p-profiles .b-achievement[data-hint^="Кудере 1 уровня"] .inner:after { 
-  /*box-shadow: 0 0 2px 1px #54e454;*/
+  box-shadow: 0 0 2px 1px #54e454;
   background-image: url("https://desu.shikimori.one/system/images/original/122468.gif?1641565611");
 }
