@@ -1,0 +1,23 @@
+@media screen and (min-width: 1200px) {
+.p-profiles-show .b-feedback:after {
+  content: ''; /* "так надо" */
+  display: inline-block; /* не обязательно именно так, но "так надо" */
+  position: fixed; /* именно это свойство и его значение fixed
+                      и делает, чтобы изображение "прокручивалось" */
+  width: 200px; /* ширина изображения */
+  height: 200px; /* высота изображения */
+  right: 0px;  /* отступ справа, 0px значит, что отступа от правой границы нет*/
+  bottom: 0px; /* отступ снизу, 0px значит, что отступа от нижней границы нет*/
+  background: url("https://i.ibb.co/P6MHrK0/Omniass.png") no-repeat;
+  background-size: cover; /* размер изображения будет подгоняться так,
+                             чтобы занять всё пространство, которое 
+                             задают width и height */
+  z-index: 10; /* изображение становится выше всех по z координате,
+                  тем самым всё остальное находится под ним*/
+  pointer-events: none; /* мышь перестаёт замечать изображение */
+  opacity: 0.8;
+}
+}
+#profiles_show .profile-head .c-brief .avatar::after {
+    box-shadow: 0 0 0 5px rgba(var(--block-color), 1);
+}
