@@ -1,0 +1,42 @@
+/*Гиф аватарка*/
+#profiles_show .profile-head .c-brief .avatar img { 
+    visibility: hidden;
+}
+#profiles_show .profile-head .c-brief .avatar::after {
+    position: absolute;
+    display: block;
+    content: "";
+    height: 80px;
+    width: 80px;
+    top: 5.8rem;
+    margin-left: 2.25rem;
+    border-radius: 50%;
+    background-image: url("https://i.ibb.co/7b6pPfS/ezgif-com-gif-maker.gif");
+    background-size: cover;
+    background-position: center;
+}
+
+@media screen and (min-width: 768px) { 
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: 4.65rem;
+        width: 160px;
+        height: 160px;
+        left: 1.5rem;
+        right: auto;
+        bottom: auto;
+        margin: 0;
+    }
+}
+@media screen and (min-width: 1024px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: 1.45rem;
+    }
+}
+@media screen and (min-width: 1200px) {
+    #profiles_show .profile-head .c-brief .avatar::after {
+        top: auto;
+        right: auto;
+        bottom: auto;
+        left: auto;
+    }
+}
