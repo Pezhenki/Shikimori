@@ -1,0 +1,489 @@
+/*Персонажи*/
+@media screen and (min-width: 1200px) {
+/*Ринтаро Окабе*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="35252"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="35252"] .image-cutter {
+    background: url("https://i.ibb.co/KDsGGXs/AF9-D278-FE9-A44-E7385563-CF7-A427243024-C7-AADB.gif") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="35252"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="35252"] .image-cutter::before {
+    content: "18 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="35252"] .image-decor::before {
+    content: "Ринтаро Окабэ";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+/*Гатс*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="422"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="422"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122433.gif?1641563452") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="422"] .image-cutter::after {
+       content: "🖤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="422"] .image-cutter::before {
+    content: "24 года, Убийца демонов";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="422"] .image-decor::before {
+    content: "Гатс";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Курису Макисе*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="34470"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="34470"] .image-cutter {
+    background: url("https://kawai.shikimori.one/system/images/original/122441.gif?1641563488") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="34470"] .image-cutter::after {
+       content: "💗"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="34470"] .image-cutter::before {
+    content: "18 лет, Цундере";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="34470"] .image-decor::before {
+    content: "Курису Макисэ";
+	font-size: 15px;
+	color: #C2B1ED;
+  /*Ай хаясака*/
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="143196"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="143196"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122452.gif?1641563515") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="143196"] .image-cutter::after {
+       content: "💗"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="143196"] .image-cutter::before {
+    content: "Хаясака-тян";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="143196"] .image-decor::before {
+    content: "Ай Хаясака";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Рем*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="118763"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="118763"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122445.gif?1641563497") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="118763"] .image-cutter::after {
+       content: "💗"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="118763"] .image-cutter::before {
+    content: "18 лет, демон";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="118763"] .image-decor::before {
+    content: "Рем";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Идзуку Мидория*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="117909"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="117909"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122439.gif?1641563479") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="117909"] .image-cutter::after {
+       content: "💚"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="117909"] .image-cutter::before {
+    content: "Зеленоволосый Наруто";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="117909"] .image-decor::before {
+    content: "Идзуку Мидория";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Айзек Фостер*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="138441"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="138441"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122434.gif?1641563453") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="138441"] .image-cutter::after {
+       content: "🖤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="138441"] .image-cutter::before {
+    content: "21 год, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="138441"] .image-decor::before {
+    content: "Айзек Фостер";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Таня Дегуршафф*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="137825"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="137825"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122449.gif?1641563509") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="137825"] .image-cutter::after {
+       content: "💥"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="137825"] .image-cutter::before {
+    content: "14 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="137825"] .image-decor::before {
+    content: "Таня Дегуршафф";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Микаса Аккерман*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="40881"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="40881"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122443.gif?1641563494") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="40881"] .image-cutter::after {
+       content: "🗡"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="40881"] .image-cutter::before {
+    content: "19 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="40881"] .image-decor::before {
+    content: "Микаса Аккерман";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Леви*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="45627"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="45627"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122442.gif?1641563493") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="45627"] .image-cutter::after {
+       content: "🗡"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="45627"] .image-cutter::before {
+    content: "30 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="45627"] .image-decor::before {
+    content: "Леви";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Нагито Комаэда*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="73227"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="73227"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122437.gif?1641563475") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="73227"] .image-cutter::after {
+       content: "✨"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="73227"] .image-cutter::before {
+    content: "Абсолютное Отчаяние";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="73227"] .image-decor::before {
+    content: "Нагито Комаэда";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Тоёхиса Симадзу*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="24183"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="24183"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122447.gif?1641563502") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="24183"] .image-cutter::after {
+       content: "🤎"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="24183"] .image-cutter::before {
+    content: "30 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="24183"] .image-decor::before {
+    content: "Тоёхиса Симадзу";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Убийца Гоблинов*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="148622"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="148622"] .image-cutter {
+    background: url("https://kawai.shikimori.one/system/images/original/122451.gif?1641563513") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="148622"] .image-cutter::after {
+       content: "🖤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="148622"] .image-cutter::before {
+    content: "20 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="148622"] .image-decor::before {
+    content: "Убийца Гоблинов";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Тома Камидзё*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="13700"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="13700"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122450.gif?1641563511") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="13700"] .image-cutter::after {
+       content: "🧡"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="13700"] .image-cutter::before {
+    content: "16 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="13700"] .image-decor::before {
+    content: "Тома Камидзё";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Акселератор*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="13917"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="13917"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122435.gif?1641563469") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="13917"] .image-cutter::after {
+       content: "🖤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="13917"] .image-cutter::before {
+    content: "16 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="13917"] .image-decor::before {
+    content: "Акселератор";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Спайк Шпигель*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="1-spike-spiegel"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="1-spike-spiegel"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122448.gif?1641563503") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="1-spike-spiegel"] .image-cutter::after {
+       content: "🚬"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="1-spike-spiegel"] .image-cutter::before {
+    content: "27 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="1-spike-spiegel"] .image-decor::before {
+    content: "Спайк Шпигель";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Синобу Осино*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="23602"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="23602"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122453.gif?1641564253") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="23602"] .image-cutter::after {
+       content: "❤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="23602"] .image-cutter::before {
+    content: "599 лет, Вампир";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="23602"] .image-decor::before {
+    content: "Синобу Осино";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Камина*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="2075"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="2075"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122440.gif?1641563486") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="2075"] .image-cutter::after {
+       content: "💛"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="2075"] .image-cutter::before {
+    content: "17 лет, Человек";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="2075"] .image-decor::before {
+    content: "Камина";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Алукард*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="601"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="601"] .image-cutter {
+    background: url("https://kawai.shikimori.one/system/images/original/122436.gif?1641563474") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="601"] .image-cutter::after {
+       content: "🖤"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="601"] .image-cutter::before {
+    content: "568 лет, Вампир";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="601"] .image-decor::before {
+    content: "Алукард";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Юэ*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="129062"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="129062"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122454.gif?1641564255") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="129062"] .image-cutter::after {
+       content: "💗"; 
+       font-size: 15px;
+}
+.cc-favourites .c-character a[href*="129062"] .image-cutter::before {
+    content: "329 лет, Вампир";
+  font-size: 15px;
+	color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="129062"] .image-decor::before {
+    content: "Юэ";
+	font-size: 15px;
+	color: #C2B1ED;
+}
+/*Рэйми Сугимото*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="90605"] img {
+    visibility: hidden;
+}
+
+.cc-favourites .b-catalog_entry a[href*="90605"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122438.gif?1641563476") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="90605"] .image-cutter::after {
+    content: "💗"; 
+    font-size: 15px;
+}
+.cc-favourites .c-character a[href*="90605"] .image-cutter::before {
+    content: "15 лет, призрак";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="90605"] .image-decor::before {
+    content: "Рэйми Сугимото";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+/*Арчер*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="2087"] img {
+
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="2087"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122432.gif?1641563451") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="2087"] .image-cutter::after {
+    content: "💗"; 
+    font-size: 15px;
+}
+.cc-favourites .c-character a[href*="2087"] .image-cutter::before {
+    content: "Слуга Рин";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="2087"] .image-decor::before {
+    content: "Арчер";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+/*Рин Тосака*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="498"] img {
+
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="498"] .image-cutter {
+    background: url("https://kawai.shikimori.one/system/images/original/122446.gif?1641563499") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="498"] .image-cutter::after {
+    content: "💗💗💗"; 
+    font-size: 15px;
+}
+.cc-favourites .c-character a[href*="498"] .image-cutter::before {
+    content: "18 лет, человек";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="498"] .image-decor::before {
+    content: "Рин Тосака";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+}
