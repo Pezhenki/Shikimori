@@ -1,4 +1,25 @@
 /*скрыть постер*/
+.p-profiles.p-achievements .b-achievement > .c-image > .inner:after {
+  max-width: 105%;
+  width: 104%;
+  height: 106%;
+  margin-left: -2%;
+  border-radius: 11px;
+}
+.p-profiles .b-achievement > .c-image > .inner:after {
+  position: absolute;
+  display: block;
+  content: "";
+  width: 102%;
+  height: 102%;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  visibility: visible !important;
+  z-index: auto;
+}
 .p-profiles .b-achievement[data-hint^='300 просмотренных аниме'] .inner img,
 .p-profiles .b-achievement[data-hint^='Кудере 1 уровня'] .inner img {
   visibility: hidden;
