@@ -487,3 +487,25 @@
     color: #C2B1ED;
 }
 }
+/*Пауэр*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="170733"] img {
+
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="170733"] .image-cutter {
+    background: url("https://kawai.shikimori.one/system/images/original/122446.gif?1641563499") no-repeat 0% 0% / 105%;
+}
+.cc-favourites .c-character a[href*="170733"] .image-cutter::after {
+    content: "💗💗💗"; 
+    font-size: 15px;
+}
+.cc-favourites .c-character a[href*="170733"] .image-cutter::before {
+    content: "18 лет, демон";
+    font-size: 15px;
+    color: #C2B1ED;
+}
+.cc-favourites .c-character a[href*="170733"] .image-decor::before {
+    content: "Пауэр";
+    font-size: 15px;
+    color: #C2B1ED;
+}
