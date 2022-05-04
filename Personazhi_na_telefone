@@ -1,1 +1,23 @@
-
+/*фон на телефоне*/
+.showmobile { display: none; }
+   @media only screen
+     and (min-device-width : 320px)
+     and (max-device-width : 570px){ .showmobile { display: inline; }
+      #profiles_show .profile-head {
+    background-attachment: scroll;
+  background-image: url(https://desu.shikimori.one/system/images/original/122553.jpg?1641640471);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  }
+}
+@media screen and (min-width: 570px) {
+  #profiles_show .profile-head {
+    background-attachment: fixed;
+  background-image: url(https://desu.shikimori.one/system/images/original/122553.jpg?1641640471);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;  
+  }
+}
+/*Персонажи на телефоне*/
